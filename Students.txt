@@ -1,0 +1,1 @@
+        s1    st_surname1 6.29        s2    st_surname2 2.64        s3    st_surname3  2.1        s4    st_surname411.36
